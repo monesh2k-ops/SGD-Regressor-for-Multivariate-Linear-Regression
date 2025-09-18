@@ -50,6 +50,9 @@ Print actual vs predicted values for better understanding.
 
 ## Program:
 ```python
+Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
+Developed by:s.monesh 
+RegisterNumber:25016809
 # Import libraries
 import numpy as np
 import pandas as pd
